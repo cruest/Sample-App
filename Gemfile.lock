@@ -83,9 +83,6 @@ GEM
       rack (>= 1.0)
       rack-test (>= 0.5.3)
 
-PLATFORMS
-  x86-mingw32
-
 DEPENDENCIES
   rails (= 3.0.6)
   rspec (= 2.0.0.beta.18)
